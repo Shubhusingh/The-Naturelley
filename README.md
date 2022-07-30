@@ -14,7 +14,7 @@
 ## Contact Us Page
 <img width="1114" alt="Contact Page" src="https://user-images.githubusercontent.com/88470262/181925334-1f6109ed-21a2-4507-9018-84899ed13dbd.png">
 
-## How to Deploy With the help of Microsoft Azure ( Deploy With Web- Statatic)
+## Here is the Deployment Process (Azure Web Static app):-
 ![Deployment process-1](https://user-images.githubusercontent.com/88470262/181925681-d8960fb5-2352-4601-9c24-8c4466781e24.jpeg)
 ![deployment process-2](https://user-images.githubusercontent.com/88470262/181925697-fc14fb7f-5581-4770-b428-c7d4cd82a2bf.jpeg)
 ![deployment process-3](https://user-images.githubusercontent.com/88470262/181925707-25b32d5c-26b5-4d8b-a38a-8933e85b8ca7.jpeg)
