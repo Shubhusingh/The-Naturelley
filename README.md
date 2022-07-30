@@ -1,15 +1,15 @@
 ## Final Future Ready Talent Project by Shubham Singh.
 ## Main Idea of this project to solve the problem of women who actually want to take care of her face and wants to be happy life. In this project lot of Beauty tips and different-different types of facial solution tips were provided. With the help these tips user were happy with their lifestyle and loved it.With the help of this we can solve the problem of skin disease.
-## The language use in this project are:-
-## 1) CSS 
-## 2) HTML 
-## 3) JavaScript and 
-## There are total five section in this project:-
-## First is Home page which describe the main theme of the project.
-## Second is About page which describe the Main vision of this website/project and about this website/project.
-## Third is Gallery page which shows the whole gallery , its helps to identify the vision.
-## Fourth is Services page which describes the services provide by us.
-## Fifth is contact us page with the help of this page contact to us.
+# The language use in this project are:-
+# 1) CSS 
+# 2) HTML 
+# 3) JavaScript and 
+# There are total five section in this project:-
+# First is Home page which describe the main theme of the project.
+# Second is About page which describe the Main vision of this website/project and about this website/project.
+# Third is Gallery page which shows the whole gallery , its helps to identify the vision.
+# Fourth is Services page which describes the services provide by us.
+# Fifth is contact us page with the help of this page contact to us.
 ## My Website Link: https://brave-water-095817410.1.azurestaticapps.net/
 ## Azure Technology Used
 # Azure Static web app technology used with the help of Microsoft azure services.
