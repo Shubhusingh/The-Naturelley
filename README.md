@@ -1,6 +1,6 @@
 ## Final Future Ready Talent Project by Shubham Singh.
-## Main Idea of this project to solve the problem of women who actually want to take care of her face and wants to be happy life. In this project lot of Beauty tips and different-different types of facial solution tips were provided. With the help these tips user were happy with their lifestyle and loved it.
-## In this Project the language I use is:-
+## Main Idea of this project to solve the problem of women who actually want to take care of her face and wants to be happy life. In this project lot of Beauty tips and different-different types of facial solution tips were provided. With the help these tips user were happy with their lifestyle and loved it.With the help of this we can solve the problem of skin disease.
+## The language use in this project are:-
 ## 1) CSS 
 ## 2) HTML 
 ## 3) JavaScript and 
